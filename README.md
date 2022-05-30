@@ -15,6 +15,8 @@ Reviewing outcomes of Kickstarters for theater projects by launch date indicates
 ### Analysis of Outcomes Based on Goals
 Reviewing outcomes based on goals initially indicates an inverse correlation between amount of funding requested and outcome: from the "Less than 1000" category through the "25000 to 29999" category, the higher the goal meets with an outcome that is less likely to be successful.  At a goal of "Less than 1000," 76% of campaigns were successful.  At a goal of "25000 to 29999," only 20% of campaigns are successful.  From this point the rate of successful campaigns begins to rise again, remaining at 67% successful for campaigns seeking "35000 to 39999" and "40000 to 44999."  The overall number of campaigns drops off, however, so while 67% are successful, this only translates to 6 campaigns and 3 campaigns, respectively.  The ratio of successful to unsuccessful campaigns in general becomes less predictable after those seeking 15000 because the sample size shrinks significantly.  
 
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 As indicated above, one of the challenges encountered was some inconsistency in the overall distribution of the data; in the Analysis of Outcomes Based on Goals, there are signficantly fewer campaigns requesting higher monetary goals.  There are also other factors that could influence overall success rate, such as "Staff Picks" and "Spotlight" that may be worth  considering.  
 
