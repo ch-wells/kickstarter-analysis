@@ -32,4 +32,4 @@ To aim for staying at or above 50% successful, requesting no more than 15000 is 
 One of the limitations of this data set is the distribution of data.  As mentioned above, in the Analysis of Outcomes Based on Goals, there are signficantly fewer campaigns requesting higher monetary goals.  Extending the timeframe of the data set might help in addressing this.  
 
 ### Future work
-Future work might include creating visuals to that explore the influence of Staff Picks on Successful using a pie chart.  A box-and-whisker chart may prove useful for identifing outliers.  A stacked bar chart might be a useful way to visualize instances in which the kickstarter projects procured more than the requested amount, grouping the data based on number of backers or financial goals.
+Future work might include creating visuals to that explore the influence of Staff Picks on successful projects using a pie chart.  A box-and-whisker chart may prove useful for identifing outliers.  A stacked bar chart might be a useful way to visualize instances in which the kickstarter projects procured more than the requested amount, grouping the data based on number of backers or financial goals.
