@@ -8,7 +8,7 @@ The purpose of this project was to determine which factors correlated to a succe
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Reviewing outcomes of Kickstarters for theater projects by launch date indicates an upward trend in successful campaigns from March toward a peak in May, suggesting this may be the most auspicious timeframe in which to initiate a campaign.  It is worth noting that unsuccessful campaigns also appear to increase in volume from March to May.  However, the increase in successful campaigns commands a much more significant margin and a more dramatic rise.  As indicated below, in May there were 111 successful theater Kickstarter campaigns to 52 failed and 3 cancelled campaigns. In other words, 67% of campaigns were successful in May.  After this point, the number of successful campaingns declines until reaching the nadir in December.
+Reviewing outcomes of Kickstarters for theater projects by launch date indicates an upward trend in successful campaigns from March toward a peak in May, suggesting this may be the most auspicious timeframe in which to initiate a campaign.  It is worth noting that unsuccessful campaigns also appear to increase in volume from March to May.  However, the increase in successful campaigns commands a much more significant margin and a more dramatic rise.  As indicated below, in May there were 111 successful theater Kickstarter campaigns to 52 failed and 3 cancelled campaigns. In other words, 67% of campaigns were successful in May.  After this point, the number of successful campaigns declines until reaching the nadir in December.
 
 ![Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
