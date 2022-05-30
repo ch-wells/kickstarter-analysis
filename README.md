@@ -18,20 +18,14 @@ As indicated above, one of the challenges encountered was some inconsistency in 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 ### Conclusions derived from Outcomes Based on Launch Date
 Based on the distribution of the data, May would be the most opportune time to launch a Kickstarter, whereas launching a Kickstarter in December would have the least likely chance of success.
 
-
-- What can you conclude about the Outcomes based on Goals?
 ### Conclusions derived from Outcomes Based on Goals
 To aim for staying at or above 50% successful, requesting no more than 15000 is advised.  To aim for staying at or above 70% successful, requesting no more than 5000 is advised.
 
-- What are some limitations of this dataset?
 ### Limitations of this dataset
 One of the limitations of this data set is the distribution of data.  As mentioned above, in the Analysis of Outcomes Based on Goals, there are signficantly fewer campaigns requesting higher monetary goals.  Extending the timeframe of the data set might help in addressing this.  
 
-
-- What are some other possible tables and/or graphs that we could create?
 ### Future work
 Future work might include creating visuals to that explore the influence of Staff Picks on Successful using a pie chart.  A box-and-whisker chart may prove useful for identifing outliers.  A stacked bar chart might be a useful way to visualize instances in which the kickstarter projects procured more than the requested amount, grouping the data based on number of backers or financial goals.
